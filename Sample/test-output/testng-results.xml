@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33204" started-at="2018-09-30T13:49:56Z" finished-at="2018-09-30T13:50:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33204" started-at="2018-09-30T13:49:56Z" finished-at="2018-09-30T13:50:29Z">
+      <class name="p1.LoginTest">
+        <test-method status="PASS" signature="Test_01()[pri:1, instance:p1.LoginTest@3b088d51]" name="Test_01" duration-ms="11777" started-at="2018-09-30T13:49:56Z" finished-at="2018-09-30T13:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_01 -->
+        <test-method status="PASS" signature="Test_02()[pri:2, instance:p1.LoginTest@3b088d51]" name="Test_02" duration-ms="19030" started-at="2018-09-30T13:50:08Z" finished-at="2018-09-30T13:50:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_02 -->
+        <test-method status="PASS" signature="Test_03()[pri:3, instance:p1.LoginTest@3b088d51]" name="Test_03" duration-ms="2296" started-at="2018-09-30T13:50:27Z" finished-at="2018-09-30T13:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_03 -->
+        <test-method status="PASS" signature="Test_04()[pri:4, instance:p1.LoginTest@3b088d51]" name="Test_04" duration-ms="47" started-at="2018-09-30T13:50:29Z" finished-at="2018-09-30T13:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_04 -->
+      </class> <!-- p1.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
